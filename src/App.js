@@ -10,6 +10,7 @@ function App() {
       <Sidebar />
       <Feed />
       <Widgets />
+
     </div>
   );
 }
